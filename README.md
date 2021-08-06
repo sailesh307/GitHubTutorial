@@ -9,7 +9,7 @@ Table of contents
 * [2. Open folder in VSCode](#2-open-folder-in-vscode)
 * [3. Publishing to GitHub](#3-publishing-to-github)
 * [4. Adding new changes or new file](#4-adding-new-changes-or-new-file)
-* [5. want to delete a file](#5-want-to-delete-a-file)
+* [5. Want to delete a file](#5-want-to-delete-a-file)
 * [6. How to view my Repository](#6-how-to-view-my-repository)
 
 
@@ -41,7 +41,7 @@ NOTE:
     2. Now git bash terminal is open.
     3. Now type the following command in the terminal.
 
-command to to set user name
+command to set user name
 
     git config --global user.name "Your Name"
 Eg : `git config --global user.name sailesh307`
@@ -52,6 +52,7 @@ command to set user email
 Eq : `git config --global user.email sailesh953@gmail.com`
 
 It will look like this.
+
 ![git config](images/git-config.png)
 
 Now you can close the terminal.
