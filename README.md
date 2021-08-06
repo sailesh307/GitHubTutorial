@@ -20,9 +20,9 @@ Table of contents
 
     VsCode and Git must be installed on your Computer.
 
-[Download Git Bash](https://git-scm.com/downloads)
+[Download Git Bash](https://git-scm.com/downloads){:target="_blank"}
 
-[Download VSCode](https://code.visualstudio.com/download)
+[Download VSCode](https://code.visualstudio.com/download){:target="_blank"}
 
 NOTE: 
     
