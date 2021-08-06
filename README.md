@@ -1,30 +1,78 @@
 # How To upload Files on GitHub (using VSCode)
 
-## 1. Prerequisites:
+Table of contents
+=================
+
+* [How To upload Files on GitHub (using VSCode)](#how-to-upload-files-on-github-using-vscode)
+* [Prerequisites](#0-prerequisites)
+* [1. Setting USER](#1-Setting-USER)
+* [2. Open folder in VSCode](#2-open-folder-in-vscode)
+* [3. Publishing to GitHub](#3-publishing-to-github)
+* [4. Adding new changes or new file](#4-adding-new-changes-or-new-file)
+* [5. want to delete a file](#5-want-to-delete-a-file)
+* [6. How to view my Repository](#6-how-to-view-my-repository)
+
+
+
+
+## 0. Prerequisites:
 
 
     VsCode and Git must be installed on your Computer.
+
+[Download Git Bash](https://git-scm.com/downloads)
+
+[Download VSCode](https://code.visualstudio.com/download)
 
 NOTE: 
     
     while doing this tutorial, if VSCode ask for sign in, then simply sign in with your GitHub account and give all permissions
     
     rest of the steps will be same
+
+
+## 1. Setting USER 
+
+    1. Search for `git bash` in your PC and open it
+
+![search gitbash](images/git-bash-search.png)
+
+    2. Now git bash terminal is open.
+    3. Now type the following command in the terminal.
+
+command to to set user name
+
+    git config --global user.name "Your Name"
+Eg : `git config --global user.name sailesh307`
+
+command to set user email
+
+    git config --global user.email "Your Email"
+Eq : `git config --global user.email sailesh953@gmail.com`
+
+It will look like this.
+![git config](images/git-config.png)
+
+Now you can close the terminal.
+
+[Note: This is one time process only. So, we don't need to do this again and again. Just do it once and you are good to go.]
+
+
 ## 2. Open folder in VSCode
-```
-1. Open VsCode
-2. Select file > Open Folder
-```
+
+    1. Open VsCode
+    2. Select file > Open Folder
+
 ![openFolder](./images/vscode-open-folder.png)
-```
-3. now select your Folder that you want to upload.
-```
+
+    3. now select your Folder that you want to upload.
+
 ![selectFolder](./images/vscode-select-folder.png)
 
 ## 3. Publishing to Github
-```
-1. Select Source Control Option
-```
+
+    1. Select Source Control Option
+
 ![selectSourceControl](./images/vscode-select-source-control.png)
 
     2. Now click on Publish to GitHub
@@ -39,15 +87,15 @@ NOTE:
 
 ![selectPrivatePublic](./images/vscode-select-private-public.png)
 
-    Now uncheck the checkbox of those file that you don't want to upload
+    4. Now uncheck the checkbox of those file that you don't want to upload
 
 ![uncheckFiles](./images/vscode-uncheck-files1.png)
 
-    i dont want to upload file.txt file so i am unchecking it.
+    I don't want to upload file.txt file so I am unchecking it.
 
 ![uncheckFiles2](./images/vscode-uncheck-files2.png)
 
-    then press OK
+    5. then press OK
 
     Now it will start uploading your files to your GitHub repository.
 
@@ -112,7 +160,7 @@ NOTE:
 ## 5. Want to delete a file
     
     simply delete the file in your VSCode and follow step 4. (as this is a change)
-[step 4](#4.-Adding-new-changes-or-new-file)
+[step 4](#4-Adding-new-changes-or-new-file)
 
 
 ## How to view my Repository
