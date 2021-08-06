@@ -14,15 +14,16 @@ Table of contents
 
 
 
-
+---
 ## Prerequisites:
-
 
     VsCode and Git must be installed on your Computer.
 
-[Download Git Bash](https://git-scm.com/downloads){:target="_blank"}
+<a href = "https://git-scm.com/downloads" target= "_blank"> Download Git </a>
 
-[Download VSCode](https://code.visualstudio.com/download){:target="_blank"}
+<a href="https://code.visualstudio.com/download" target="_blank"> Download VSCode </a>
+
+---
 
 NOTE: 
     
@@ -30,7 +31,7 @@ NOTE:
     
     rest of the steps will be same
 
-
+---
 ## 1. Setting USER 
 
     1. Search for `git bash` in your PC and open it
@@ -57,7 +58,7 @@ Now you can close the terminal.
 
 [Note: This is one time process only. So, we don't need to do this again and again. Just do it once and you are good to go.]
 
-
+---
 ## 2. Open folder in VSCode
 
     1. Open VsCode
@@ -69,6 +70,7 @@ Now you can close the terminal.
 
 ![selectFolder](./images/vscode-select-folder.png)
 
+---
 ## 3. Publishing to Github
 
     1. Select Source Control Option
@@ -117,6 +119,7 @@ Now you can close the terminal.
 
 ![gitignore](./images/gitignore.png)
 
+---
 ## 4. Adding new changes or new file
 
     i have added a new file in my repository named newProgram.c
@@ -157,13 +160,15 @@ Now you can close the terminal.
 
 [want to add more changes](#4-Adding-new-changes-or-new-file)
 
+---
 ## 5. Want to delete a file
     
     simply delete the file in your VSCode and follow step 4. (as this is a change)
-[step 4](#4-Adding-new-changes-or-new-file)
+[Step 4](#4-Adding-new-changes-or-new-file)
 
 
-## How to view my Repository
+---
+## 6. How to view my Repository
 
     1. open your gitHub account
 
@@ -175,4 +180,5 @@ Now you can close the terminal.
 
     3. Now click on your repository that you want to view.
 
+---
 # THANK YOU for reading this tutorial.
