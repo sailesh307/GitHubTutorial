@@ -183,3 +183,4 @@ Now you can close the terminal.
 
 ---
 # THANK YOU for reading this tutorial.
+<button onclick="window.print()">Print this page</button>
