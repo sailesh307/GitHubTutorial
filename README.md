@@ -15,7 +15,7 @@ Table of contents
 
 
 
-## 0. Prerequisites:
+## Prerequisites:
 
 
     VsCode and Git must be installed on your Computer.
