@@ -4,8 +4,8 @@ Table of contents
 =================
 
 * [How To upload Files on GitHub (using VSCode)](#how-to-upload-files-on-github-using-vscode)
-* [Prerequisites](#0-prerequisites)
-* [1. Setting USER](#1-Setting-USER)
+* [Prerequisites](#prerequisites)
+* [1. Setting USER](#1-setting-user)
 * [2. Open folder in VSCode](#2-open-folder-in-vscode)
 * [3. Publishing to GitHub](#3-publishing-to-github)
 * [4. Adding new changes or new file](#4-adding-new-changes-or-new-file)
@@ -159,13 +159,13 @@ Now you can close the terminal.
 
     [Note : new commit means new changes in your repository]
 
-[want to add more changes](#4-Adding-new-changes-or-new-file)
+[want to add more changes](#4-adding-new-changes-or-new-file)
 
 ---
 ## 5. Want to delete a file
     
     simply delete the file in your VSCode and follow step 4. (as this is a change)
-[Step 4](#4-Adding-new-changes-or-new-file)
+[Step 4](#4-adding-new-changes-or-new-file)
 
 
 ---
@@ -183,4 +183,3 @@ Now you can close the terminal.
 
 ---
 # THANK YOU for reading this tutorial.
-<button onclick="window.print()">Print this page</button>
