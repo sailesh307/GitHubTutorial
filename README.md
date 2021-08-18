@@ -43,7 +43,7 @@ NOTE:
 
 command to set user name
 
-    git config --global user.name "Your Name"
+    git config --global user.name "Your User Name"
 Eg : `git config --global user.name sailesh307`
 
 command to set user email
